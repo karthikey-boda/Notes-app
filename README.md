@@ -21,3 +21,4 @@ A simple Notes App built using HTML, CSS, and JavaScript.
 
 1. Clone the repository.
 2. Open `index.html` in your browser.
+
